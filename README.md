@@ -1,0 +1,2 @@
+# Voxel_Worlds_Base
+voxel world project is community free project, the goal is to have a voxel world generation base so people can use it to power there games and to also grow this project into something playable by community completely free in its vanilla base,  People may setup some sort money raising only in the form of things like ranks and items etc in game much like how Minecraft servers did it before the eula came out.
